@@ -1,3 +1,4 @@
 #!/usb/bin/env python3
 # -*- coding=utf-8 -*-
-print('hellotry01')
+print('hello')
+print('try02')
